@@ -45,7 +45,7 @@ export const exhibitions: Exhibition[] = [
     description:
       "An exploration of modernist architecture and the ideas that transformed the relationship between structure, material and everyday life.",
     image:
-      "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1800&q=90",
+      "/Users/siya/archive/public/images/Cities/Cape-Town/bo-kaap-21200-x-675-px.webp",
     featured: true,
   },
 

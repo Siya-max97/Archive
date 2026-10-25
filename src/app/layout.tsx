@@ -14,6 +14,9 @@ const sans = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_SITE_URL ?? "https://archive.vercel.app",
+  ),
   title: "ARCHIVE — Architecture / Culture / Place",
   description:
     "An immersive digital archive exploring architecture, culture and place.",
